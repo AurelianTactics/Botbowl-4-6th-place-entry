@@ -8,6 +8,8 @@ Method:
 Packages Used:
 ray, rllib, pytorch
 
-https://ieee-cog.org/2022/
+Submission repo: https://github.com/AurelianTactics/bot-bowl-submission
 
+Competition Links:
+https://ieee-cog.org/2022/
 https://njustesen.github.io/botbowl/bot-bowl-iv.html
