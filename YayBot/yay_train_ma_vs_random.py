@@ -145,7 +145,7 @@ def main():
 
     if args.sync_path is not None and args.sync_path != "":
         sync_config = tune.SyncConfig(
-            upload_dir = args.sync_path #"s3://botbowl4-yaybot/ray-results/"
+            upload_dir = args.sync_path
         )
     else:
         sync_config = None
