@@ -150,3 +150,15 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+.ipynb
+*.ipynb
+YayBot/yay_bc_demo_generator_scripted_only (copy).py
+YayBot/yay_models_experimental (copy).py
+YayBot/yay_multi_env_self_play (another copy).py
+YayBot/yay_multi_env_self_play (copy prior to appo).py
+YayBot/yay_multi_env_self_play (copy).py
+YayBot/yay_multi_env_self_play (old test version that worked).py
+YayBot/yay_train (copy).py
+YayBot/yay_train_single_agent (copy).py
+YayBot/yay_models (copy).py
